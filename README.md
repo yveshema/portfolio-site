@@ -1,2 +1,2 @@
 # portfolio-site
-Created with CodeSandbox
+An example portfolio site
